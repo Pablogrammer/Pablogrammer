@@ -9,4 +9,4 @@
 - SQL
 ### :star: Experimented in:
 - PHP
-- WEB DESSIGN
+- WEB DESIGN
