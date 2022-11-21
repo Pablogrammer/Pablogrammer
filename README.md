@@ -7,6 +7,7 @@
 - JAVASCRIPT
 - PYTHON
 - SQL
-### :star: Experimented in:
 - PHP
+### :star: Experimented in:
+- LARAVEL
 - WEB DESIGN
