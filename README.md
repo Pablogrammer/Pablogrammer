@@ -11,3 +11,4 @@
 ### :star: Experimented in:
 - LARAVEL
 - WEB DESIGN
+- React
