@@ -11,6 +11,6 @@
 ### :star::star: Experimented in:
 - LARAVEL
 - WEB DESIGN
-### :star: Learning... :
+### :star: Learning:
 - React
 - Angular
