@@ -10,7 +10,8 @@
 - PHP
 ### :star::star: Experimented in:
 - LARAVEL
+- SYMFONY
 - WEB DESIGN
 ### :star: Learning:
-- React
-- Angular
+- REACT
+- VUE
