@@ -1,5 +1,5 @@
 # :wave: Hi, I am Pablo Cid Olmos 
-## :space_invader: I am a Full Stack Development Student
+## :space_invader: I am Full Stack Development
 
 ### :star: Languages that I know :star:
 
